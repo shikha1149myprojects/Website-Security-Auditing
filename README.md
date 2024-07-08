@@ -6,10 +6,14 @@ The following are some of the benefits of conducting a security audit on a websi
 3. Use access controls and encryption methods to safeguard data.
 4. Verify adherence to relevant laws and industry guidelines.
 
+## Tools used
+- Burp Suite Professional
 
-Here, I have conducted security auditing of 2 websites:
+Here, I have conducted security auditing of 2 websites using Burp Suite:
 - www.vendasta.com
 - www.ourshopee.com
+
+  
 
 ## Port Scan of Web Sever
 
